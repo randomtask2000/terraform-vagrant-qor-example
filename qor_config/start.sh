@@ -1,5 +1,5 @@
 #!/bin/bash
-
+source /qor/env.sh
 echo "cd $QORDIR/src/github.com/$REPO/qor-example/"
 cd "$QORDIR/src/github.com/$REPO/qor-example/"
 echo "starting 'main.go'"
