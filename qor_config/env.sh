@@ -9,3 +9,4 @@ fi
 export GOROOT=/usr/local/go
 export GOPATH=$QORDIR
 export REPO=qor
+export QOREXAMPLEDIR="$QORDIR/src/github.com/$REPO/qor-example/"
