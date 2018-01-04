@@ -1,0 +1,7 @@
+/qordev/*
+*.gz
+*.log
+*.tfstate
+/.terraform/
+/.vagrant/
+*.backup
