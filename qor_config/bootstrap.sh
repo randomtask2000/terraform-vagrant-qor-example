@@ -107,6 +107,8 @@ echo "\$PATH=$PATH"
 echo "\$GOROOT=$GOROOT"
 echo "\$GOPATH=$GOPATH"
 echo "\$REPO=$REPO"
+echo "\$QOREXAMPLEDIR=$QOREXAMPLEDIR"
+
 
 
 
