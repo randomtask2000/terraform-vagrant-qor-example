@@ -5,3 +5,4 @@
 /.terraform/
 /.vagrant/
 *.backup
+*.code-workspace
