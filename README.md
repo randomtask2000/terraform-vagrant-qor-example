@@ -1,3 +1,6 @@
+terraform-vagrant-qor-example
+=============================
+A VERY simple [QOR-Example](https://github.com/randomtask2000/qor-example) eCom Shop environment provisioner for [HashiCorp Vagrant](http://www.vagrantup.com/) and [HashiCorp Terraform](https://www.terraform.io/) on [DigitalOcean](https://www.digitalocean.com/).
 ## Introduction
 This set of scripts can instantiate a local shopping site running [QOR-Example](https://github.com/randomtask2000/qor-example) on [Golang](https://golang.org/) in a local [Vagrant](https://www.vagrantup.com) [virtual box](https://www.virtualbox.org/wiki/Downloads) (vbox) or a small 512 instance in [DigitalOcean](https://cloud.digitalocean.com) via [HashiCorp Terraform](https://www.terraform.io/). 
 ## Quick Start
