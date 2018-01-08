@@ -1,4 +1,4 @@
-# terraform-vagrant-qor-example
+terraform-vagrant-qor-example
 =============================
 A VERY simple [QOR-Example](https://github.com/randomtask2000/qor-example) eCom Shop environment provisioner for [HashiCorp Vagrant](http://www.vagrantup.com/) and [HashiCorp Terraform](https://www.terraform.io/) on [DigitalOcean](https://www.digitalocean.com/).
 ## Introduction
